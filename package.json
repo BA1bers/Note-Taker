@@ -1,0 +1,13 @@
+{
+  "name": "Note-Taker-main",
+  "version": "1.0.0",
+  "description": "* [Description](#description)   * [How to install](#installation)   * [Usage](#usage)   * [Tests](#tests)   * [Credits](#credits)   * [License](#license)   * [Email](#email)   * [GitHub](#github) ## Title  Note-Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
