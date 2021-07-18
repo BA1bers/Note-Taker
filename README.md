@@ -1,9 +1,9 @@
 # Note-Taker
   ## Table of Contents:
   * [Description](#description)
+  * [Screenshots](#screenshots)
   * [How to install](#installation)
   * [Usage](#usage)
-  * [Tests](#tests)
   * [Credits](#credits)
   * [License](#license)
   * [Email](#email)
@@ -14,15 +14,15 @@ Note-Taker
 ## Description 
 As a web developer, I want to be able to write and save notes so that I can organize my thoughts and keep track of tasks I need to complete
 
+## Screenshots
+
+
 ## How to install 
  
 
 ## Usage 
  
-
-## Tests 
  
-
 ## Credits 
 Created By: Brent Albers.
 
