@@ -8,8 +8,6 @@
   * [License](#license)
   * [Email](#email)
   * [GitHub](#github)
-## Title 
-Note-Taker
 
 ## Description 
 As a web developer, I want to be able to write and save notes so that I can organize my thoughts and keep track of tasks I need to complete
@@ -18,10 +16,10 @@ As a web developer, I want to be able to write and save notes so that I can orga
 ![NoteTakerGif](/NoteTaker.gif)
 
 ## How to install 
- 
+You can clone the repository by clicking the green code button above and then click the 'Download Zip' option. 
 
 ## Usage 
- 
+Open the terminal either through VS Code or through gitbash and type "node server" to load the server. Once that's finished, open your browser and type in "localhost:3001" in the search bar.
  
 ## Credits 
 Created By: Brent Albers.
